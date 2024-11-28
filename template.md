@@ -1,14 +1,15 @@
 # Process Writeup
 
-## Name: E
-## Course: 
-## Period: 
-## Concept: 
+## Name: Eva Chen
+## Course: SEP10(Wed Design)
+## Period: 7
+## Concept: AVD Jigsaw Writeup
 
-### Section
+  ### Context
 
-Text
+In this project, every group had a topic. We had to make a webpage about the topic. My group's topic was animations. We learned lessons on FCC(Free Code Camp) and we were able to create a simple webpage about the lessons we learned.
 
+### Challenges
 Text
 
 * List
