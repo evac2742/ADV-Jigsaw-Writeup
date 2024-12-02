@@ -1,16 +1,23 @@
 # Process Writeup
 
 ## Name: Eva Chen
-## Course: SEP10(Web Design)
+## Course: SEP10 Web Design
 ## Period: 7
-## Concept: AVD Jigsaw Writeup
+## Concept: Applied Visual Design Jigsaw
 
   ### Context
 
-In this project, every group had a topic. We had to make a webpage about the topic. My group's topic was animations. We learned lessons on FCC(Free Code Camp) and we were able to create a simple webpage about the lessons we learned.
+We are currently in  Unit 1, web design. The topic for the project is applying visual designs. In this project, every group had a topic. We had to make a webpage about the topic. My group's topic was animations. We learned lessons on FCC(Free Code Camp) and we were able to create a simple webpage about the lessons we learned.
 
 ### FreeCodeCamp
 In FCC, it was really fun because I was able to solve challenges as I went though the lesssons. Some of the lessons on FCC include ```Animation-name```, ```keyframes```, color, ```Animation-iteration-count```, and ```Animation-Timing-Functions```. Theses were also the topics included into the project. Each topic had its own header and we explained how each element worked. 
+
+**Here are some of the other topics that other groups did:**
+* Basic (text-align, height, strong, s, horizontal lines, background-color, etc..)
+* Colors (Hue, gradient, etc..)
+* Positioning (relative, absolute property, fixed property, float property, z-index, auto)
+* Geometry (skewX, skewY, hover, transform, scale,, rotate, box shadows)
+* Animation (animation-name, keyframes, color, animation-iteration-count, animation-timing-functions)
 
 For example, we explained how ```Animation-name```  was used to name an animation so that it is easier to select that specific animation.
 Here's an example:
@@ -54,7 +61,9 @@ In this example, the animation would ease-out and ease-in. This means that at th
 All of these topics were used into the [project](https://app.pickcode.io/share/cm3nc386v91029fpuh7uvpvqy).
 
 ###Challenges
-The only challenge I really faced was learning how to use the keyframes.
+The major challenge I really faced was learning how to use the keyframes. I got confused and didn't really understand how to use keyframes. I struggled with understanding the format with the curly brackets and the percentages.
+Here is how to properly use keyframes:
+
 
 Inline `code` snippet
 
